@@ -6,7 +6,7 @@ xmlParserOn: spec
       with: [ 
 			spec
 				loads: #('Core');
-				repository: 'github://GsDevKit/XML-XMLParser/filetree' ]. 
+				repository: 'github://GsDevKit/XML-XMLParser:gemstone/filetree' ]. 
 				
 	spec 
 		project: 'XMLParser Tests' copyFrom: 'XMLParser' with: [ spec loads: #('Tests') ]; 	

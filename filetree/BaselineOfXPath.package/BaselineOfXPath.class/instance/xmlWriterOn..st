@@ -6,7 +6,7 @@ xmlWriterOn: spec
       with: [ 
 			spec
 				loads: #('Core');
-				repository: 'github://GsDevKit/XML-XMLWriter/filetree' ]. 
+				repository: 'github://GsDevKit/XML-XMLWriter:gemstone/filetree' ]. 
 				
 	spec 
 		project: 'XMLWriter Tests' copyFrom: 'XMLWriter' with: [ spec loads: #('Tests') ]; 	
