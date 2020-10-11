@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathUndeclaredPrefixException",
+	"pools" : [
+		 ],
+	"super" : "XPathException",
+	"type" : "normal" }

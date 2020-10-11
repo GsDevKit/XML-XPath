@@ -1,0 +1,2 @@
+
+An abstract class for wrapping XPath types to polymorphically implement XPath comparison operators.

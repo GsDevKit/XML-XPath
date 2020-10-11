@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-GTExtensions-Highlighting-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GLMXPathHighlighterTextStylerDecorator",
+	"pools" : [
+		 ],
+	"super" : "GLMXMLHighlighterTextStylerDecorator",
+	"type" : "normal" }

@@ -1,0 +1,2 @@
+
+This class parses XPath function prototypes to extract the name, return type, and the number and type of arguments.

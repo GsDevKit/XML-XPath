@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfXPath",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfXPath",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"specificationDocument" ],
+	"name" : "XPathLocationPathSpecificationTest",
+	"pools" : [
+		 ],
+	"super" : "XPathTest",
+	"type" : "normal" }

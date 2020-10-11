@@ -1,0 +1,2 @@
+
+Invoked when node sets are manipulated incorrectly.

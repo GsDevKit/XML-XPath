@@ -1,0 +1,2 @@
+
+This class stores an object to be converted to a node test and one or more predicates to apply with it.

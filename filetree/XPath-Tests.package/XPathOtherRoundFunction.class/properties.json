@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathOtherRoundFunction",
+	"pools" : [
+		 ],
+	"super" : "XPathRoundFunction",
+	"type" : "normal" }

@@ -1,0 +1,2 @@
+
+This is a base class for AST location path step nodes.

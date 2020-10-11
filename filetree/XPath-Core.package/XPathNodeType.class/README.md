@@ -1,0 +1,2 @@
+
+This is a base class for node types.

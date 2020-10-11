@@ -1,0 +1,2 @@
+
+XPath number conversion function.

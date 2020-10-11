@@ -1,0 +1,1 @@
+Baseline for XPath library for Pharo (see https://github.com/pharo-contributions/XML-XPath)

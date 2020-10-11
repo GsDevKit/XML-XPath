@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-GTExtensions-Highlighting-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"highlighter" ],
+	"name" : "XPathHighlightingASTSourceWritingNodeVisitor",
+	"pools" : [
+		 ],
+	"super" : "XPathASTSourceWritingNodeVisitor",
+	"type" : "normal" }

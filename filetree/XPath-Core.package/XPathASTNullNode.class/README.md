@@ -1,0 +1,2 @@
+
+This class is used during parsing to separate the nested operator nodes belonging to one "or" expression from those belonging to another, and to function as a "null" object to simplify AST visiting and iteration.

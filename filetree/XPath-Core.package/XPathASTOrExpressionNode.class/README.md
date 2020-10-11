@@ -1,0 +1,2 @@
+
+This is an AST node class for 'or' expressions. The evaluation should short-curcuit so that the other expression is only evaluated if the first evaluates as false.

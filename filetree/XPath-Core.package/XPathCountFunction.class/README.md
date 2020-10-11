@@ -1,0 +1,2 @@
+
+XPath node set count (size) function.

@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pushedBackToken",
+		"nameStream" ],
+	"name" : "XPathReadStreamAdapter",
+	"pools" : [
+		 ],
+	"super" : "XMLReadStreamAdapter",
+	"type" : "normal" }

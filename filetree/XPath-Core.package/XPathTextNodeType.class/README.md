@@ -1,0 +1,2 @@
+
+This is a class for the text (string) node type.

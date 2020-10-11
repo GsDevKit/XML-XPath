@@ -1,0 +1,19 @@
+{
+	"category" : "XPath-Core-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"AxisSpecifiers" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"axisSpecifier",
+		"handlerSelector",
+		"defaultNodeTestParserStateClass",
+		"isImplicit",
+		"isStartOfRelativeLocationPath",
+		"isFirstAxis" ],
+	"name" : "XPathExpressionParserAxis",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

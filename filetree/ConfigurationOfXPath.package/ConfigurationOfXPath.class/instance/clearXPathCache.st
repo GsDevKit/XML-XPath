@@ -1,0 +1,3 @@
+doits
+clearXPathCache
+	XPath clearCompiledExpressionCache

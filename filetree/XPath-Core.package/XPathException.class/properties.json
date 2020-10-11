@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"position" ],
+	"name" : "XPathException",
+	"pools" : [
+		 ],
+	"super" : "XMLException",
+	"type" : "normal" }

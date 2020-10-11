@@ -1,0 +1,2 @@
+
+This is an XPath type class for 'true' and 'false' values.

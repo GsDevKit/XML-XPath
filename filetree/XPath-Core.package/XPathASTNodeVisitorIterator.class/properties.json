@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"previousVisited" ],
+	"name" : "XPathASTNodeVisitorIterator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

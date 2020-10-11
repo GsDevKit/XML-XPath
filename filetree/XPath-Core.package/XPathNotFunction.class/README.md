@@ -1,0 +1,2 @@
+
+XPath negation function.

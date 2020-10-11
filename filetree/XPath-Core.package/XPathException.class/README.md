@@ -1,0 +1,2 @@
+
+A base class for XPath exceptions.

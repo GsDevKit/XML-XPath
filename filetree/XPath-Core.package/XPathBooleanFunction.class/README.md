@@ -1,0 +1,2 @@
+
+XPath boolean conversion function.

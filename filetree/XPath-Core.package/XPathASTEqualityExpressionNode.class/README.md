@@ -1,0 +1,2 @@
+
+This is a base class for AST equality expression nodes of the same precedence.

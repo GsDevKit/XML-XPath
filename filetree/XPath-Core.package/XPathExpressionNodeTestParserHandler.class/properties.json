@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentAxis",
+		"expressionParserHandler" ],
+	"name" : "XPathExpressionNodeTestParserHandler",
+	"pools" : [
+		 ],
+	"super" : "XPathNodeTestParserHandler",
+	"type" : "normal" }

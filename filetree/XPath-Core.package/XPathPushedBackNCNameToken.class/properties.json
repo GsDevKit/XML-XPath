@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathPushedBackNCNameToken",
+	"pools" : [
+		 ],
+	"super" : "XPathPushedBackToken",
+	"type" : "normal" }

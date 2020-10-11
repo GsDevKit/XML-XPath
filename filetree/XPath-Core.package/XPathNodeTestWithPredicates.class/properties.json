@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-Compilation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodeTest",
+		"predicates" ],
+	"name" : "XPathNodeTestWithPredicates",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

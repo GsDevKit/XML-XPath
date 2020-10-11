@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Compilation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathBooleanComparable",
+	"pools" : [
+		 ],
+	"super" : "XPathComparable",
+	"type" : "normal" }

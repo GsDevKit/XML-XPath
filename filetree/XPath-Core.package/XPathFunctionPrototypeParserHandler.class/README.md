@@ -1,0 +1,2 @@
+
+An abstract class for function prototype parser handlers.

@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-Compilation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceCode",
+		"nodeTests" ],
+	"name" : "XPathTranslatedExpression",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

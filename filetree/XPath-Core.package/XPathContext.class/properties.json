@@ -1,0 +1,16 @@
+{
+	"category" : "XPath-Core",
+	"classinstvars" : [
+		"defaultFunctions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variables",
+		"namespaceScope",
+		"functions" ],
+	"name" : "XPathContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

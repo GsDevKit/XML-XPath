@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"localName" ],
+	"name" : "XPathASTNamespaceTestForLocalNameNode",
+	"pools" : [
+		 ],
+	"super" : "XPathASTNamespaceTestNode",
+	"type" : "normal" }

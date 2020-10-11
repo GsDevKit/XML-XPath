@@ -1,0 +1,2 @@
+
+XPath number rounding function.

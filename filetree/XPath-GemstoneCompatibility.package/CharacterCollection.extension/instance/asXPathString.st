@@ -1,0 +1,3 @@
+*XPath-GemstoneCompatibility
+asXPathString
+	^ self

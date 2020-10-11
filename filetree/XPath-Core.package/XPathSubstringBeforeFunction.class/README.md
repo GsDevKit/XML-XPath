@@ -1,0 +1,2 @@
+
+XPath function to return the substring before another substring.

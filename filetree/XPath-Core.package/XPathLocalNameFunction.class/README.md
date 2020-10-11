@@ -1,0 +1,2 @@
+
+XPath local name function.

@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-GTExtensions-Highlighting-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startArgumentPosition",
+		"endArgumentPosition" ],
+	"name" : "XPathPositionNodeTestParser",
+	"pools" : [
+		 ],
+	"super" : "XPathNodeTestParser",
+	"type" : "normal" }

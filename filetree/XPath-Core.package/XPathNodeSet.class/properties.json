@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-DOM",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"set",
+		"sortOrder" ],
+	"name" : "XPathNodeSet",
+	"pools" : [
+		 ],
+	"super" : "XMLNodeList",
+	"type" : "normal" }

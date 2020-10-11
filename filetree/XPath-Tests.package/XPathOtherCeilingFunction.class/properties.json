@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathOtherCeilingFunction",
+	"pools" : [
+		 ],
+	"super" : "XPathCeilingFunction",
+	"type" : "normal" }

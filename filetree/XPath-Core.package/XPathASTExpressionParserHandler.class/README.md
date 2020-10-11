@@ -1,0 +1,2 @@
+
+This is a handler class for XPath expression parsers that generates an AST that can be searched and manipulated using AST node visitors.

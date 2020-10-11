@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"namespaceURI" ],
+	"name" : "XPathASTElementNodeTestForNamespaceURINode",
+	"pools" : [
+		 ],
+	"super" : "XPathASTElementNodeTestNode",
+	"type" : "normal" }

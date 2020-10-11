@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathNodeTestParserNamespaceTypeTestState",
+	"pools" : [
+		 ],
+	"super" : "XPathNodeTestParserNamespaceState",
+	"type" : "normal" }

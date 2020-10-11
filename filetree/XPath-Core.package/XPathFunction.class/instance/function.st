@@ -1,0 +1,3 @@
+implementing
+function
+	self subclassResponsibility

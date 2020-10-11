@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathOtherSumFunction",
+	"pools" : [
+		 ],
+	"super" : "XPathSumFunction",
+	"type" : "normal" }

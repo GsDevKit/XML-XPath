@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfXPath",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfXPath",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

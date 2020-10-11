@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathASTNegationExpressionNode",
+	"pools" : [
+		 ],
+	"super" : "XPathASTUnaryOperatorExpressionNode",
+	"type" : "normal" }

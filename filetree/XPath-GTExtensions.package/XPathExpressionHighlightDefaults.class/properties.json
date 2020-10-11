@@ -1,0 +1,26 @@
+{
+	"category" : "XPath-GTExtensions-Highlighting",
+	"classinstvars" : [
+		"defaultAxisColor",
+		"defaultNodeTestColor",
+		"defaultPredicateLevelOneColor",
+		"defaultPredicateLevelTwoColor",
+		"defaultPredicateLevelThreeColor",
+		"defaultPredicateLevelFourColor",
+		"defaultPredicateLevelFiveColor",
+		"defaultPredicateLevelSixColor",
+		"defaultOperatorColor",
+		"defaultFunctionCallColor",
+		"defaultStringLiteralColor",
+		"defaultNumberLiteralColor",
+		"defaultVariableReferenceColor" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathExpressionHighlightDefaults",
+	"pools" : [
+		 ],
+	"super" : "XMLHighlightDefaults",
+	"type" : "normal" }

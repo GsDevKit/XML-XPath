@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XPathASTMultiplicationExpressionNode",
+	"pools" : [
+		 ],
+	"super" : "XPathASTMultiplicativeExpressionNode",
+	"type" : "normal" }

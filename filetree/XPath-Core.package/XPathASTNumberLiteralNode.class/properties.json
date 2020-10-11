@@ -1,0 +1,15 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"number",
+		"xpathString" ],
+	"name" : "XPathASTNumberLiteralNode",
+	"pools" : [
+		 ],
+	"super" : "XPathASTLiteralNode",
+	"type" : "normal" }

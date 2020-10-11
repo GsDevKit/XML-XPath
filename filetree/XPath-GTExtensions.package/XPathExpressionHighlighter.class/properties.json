@@ -1,0 +1,30 @@
+{
+	"category" : "XPath-GTExtensions-Highlighting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"axisColor",
+		"nodeTestColor",
+		"predicateColors",
+		"predicateColorLevel",
+		"operatorColor",
+		"functionCallColor",
+		"stringLiteralColor",
+		"numberLiteralColor",
+		"variableReferenceColor",
+		"axisHighlight",
+		"nodeTestHighlight",
+		"predicateHighlightStack",
+		"operatorHighlight",
+		"functionCallHighlightStack",
+		"stringLiteralHighlight",
+		"numberLiteralHighlight",
+		"variableReferenceHighlight" ],
+	"name" : "XPathExpressionHighlighter",
+	"pools" : [
+		 ],
+	"super" : "XMLHighlighter",
+	"type" : "normal" }

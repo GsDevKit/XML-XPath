@@ -1,0 +1,14 @@
+{
+	"category" : "XPath-Core-Compilation-AST",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"predicates" ],
+	"name" : "XPathASTFilterExpressionNode",
+	"pools" : [
+		 ],
+	"super" : "XPathASTNodeWithExpression",
+	"type" : "normal" }
