@@ -6,7 +6,7 @@ xmlWriterOn: spec
       with: [ 
 			spec
 				loads: #('Core');
-				repository: 'github://pharo-contributions/XML-XMLWriter:2.9.x/src' ]. 
+				repository: 'github://GsDevKit/XML-XMLWriter/filetree' ]. 
 				
 	spec 
 		project: 'XMLWriter Tests' copyFrom: 'XMLWriter' with: [ spec loads: #('Tests') ]; 	
