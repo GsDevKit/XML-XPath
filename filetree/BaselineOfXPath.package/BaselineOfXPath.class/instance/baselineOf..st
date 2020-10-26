@@ -23,4 +23,12 @@ baselineOf: spec
 				group: 'Tests' with: #('XPath-Tests');	
 				group: 'all' with: #('Core' 'Tools' 'Tests');
 				group: 'default' with: #('all')	
-	]
+	].
+	"load gemstone compatibility methods"
+	spec
+		for: #'gemstone'
+		do: [
+			spec
+				package: 'XPath-Core' with: [ spec includes: 'XPath-Core-GemstoneCompatibility' ];
+				package: 'XPath-Core-GemstoneCompatibility' with: [ spec requires: 'XPath-Core' ]
+	].
