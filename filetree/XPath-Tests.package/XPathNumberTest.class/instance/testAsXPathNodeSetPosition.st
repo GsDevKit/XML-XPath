@@ -1,5 +1,6 @@
 tests
 testAsXPathNodeSetPosition
+  ||
 	-10 to: 10 do: [:i | | position |
 		position := i asXPathNodeSetPosition.
 		self
