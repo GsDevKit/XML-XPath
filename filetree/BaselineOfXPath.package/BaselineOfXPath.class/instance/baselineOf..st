@@ -36,13 +36,13 @@ baselineOf: spec
 		for: #'gs3.1.x'
 		do: [ 
 			spec
-				package: 'XPath-Core'
+				package: 'XPath-GemstoneCompatibility'
 				with: [ 
 					spec
 						includes:
-							#('XPath-Core-GemstoneCompatibility31x') ].
+							#('XPath-GemstoneCompatibility31x') ].
 			spec
-				package: 'XPath-Core-GemstoneCompatibility31x'
+				package: 'XPath-GemstoneCompatibility31x'
 				with: [ spec requires: 'XPath-GemstoneCompatibility' ].
 			spec
 				package: 'XPath-Tests'
