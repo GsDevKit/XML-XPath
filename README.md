@@ -12,7 +12,7 @@ An XPath library for [Pharo](http://www.pharo.org) leveraging the XML parsing ca
 ```Smalltalk
 Metacello new
 	baseline: 'XPath';
-	repository: 'github://pharo-contributions/XML-XPath/src';
+	repository: 'github://GsDevKit/XML-XPath:gemstone/filetree';
 	load.
 ```
 ### tODE command line
