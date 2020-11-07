@@ -1,4 +1,4 @@
-*XPath-Core-GemstoneCompatibility
+*XPath-GemstoneCompatibility
 compileTranslatedExpression: aTranslatedExpression
 	^XPathCompiledExpression 
 		block: aTranslatedExpression sourceCode evaluate
