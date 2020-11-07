@@ -1,4 +1,4 @@
-tests
+*XPath-TestsCommon
 testEqualToNodeSet
 	"From the spec:
 			'If both objects to be compared are node-sets, then the comparison will

@@ -41,6 +41,15 @@ baselineOf: spec
 				package: 'XPath-GemstoneCompatibility'
 					with: [ spec requires: 'XPath-Core' ] ].
 	spec
+		for: #(#pharo  #'gs3.2.x' #'gs3.3.x' #'gs3.4.x' #'gs3.5.x' #'gs3.6.x')
+		do: [
+			spec
+				package: 'XPath-Tests'
+				with: [ spec includes: #('XPath-TestsCommon') ].
+			spec
+				package: 'XPath-TestsCommon'
+				with: [ spec requires: #('XPath-Tests') ] ].
+	spec
 		for: #'gs3.1.x'
 		do: [ 
 			spec
@@ -54,7 +63,7 @@ baselineOf: spec
 				with: [ spec requires: 'XPath-GemstoneCompatibility' ].
 			spec
 				package: 'XPath-Tests'
-				with: [ spec includes: #('XPath-Tests-GemstoneCompatibility31x') ].
+				with: [ spec includes: #('XPath-TestsGs31x') ].
 			spec
 				package: 'XPath-TestsGs31x'
 				with: [ spec requires: #('XPath-Tests') ] ]

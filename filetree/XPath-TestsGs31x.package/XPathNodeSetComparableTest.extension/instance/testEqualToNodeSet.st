@@ -1,4 +1,4 @@
-*XPath-Tests-GemstoneCompatibility31x
+*XPath-TestsGs31x
 testEqualToNodeSet
 	"From the spec:
 			'If both objects to be compared are node-sets, then the comparison will

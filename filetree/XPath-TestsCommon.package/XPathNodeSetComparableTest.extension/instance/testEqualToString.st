@@ -1,4 +1,4 @@
-tests
+*XPath-TestsCommon
 testEqualToString
 	"From the spec: 
 			'If one object to be compared is a node-set and the other is a string,

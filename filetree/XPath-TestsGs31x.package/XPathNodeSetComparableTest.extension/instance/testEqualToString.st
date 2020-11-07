@@ -1,4 +1,4 @@
-*XPath-Tests-GemstoneCompatibility31x
+*XPath-TestsGs31x
 testEqualToString
 	"From the spec: 
 			'If one object to be compared is a node-set and the other is a string,

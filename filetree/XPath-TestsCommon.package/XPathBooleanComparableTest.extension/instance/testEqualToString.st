@@ -1,14 +1,14 @@
-tests
-testEqualToBoolean
+*XPath-TestsCommon
+testEqualToString
 	self assert:
 		self comparableTrueValue equals:
-			self comparableTrueValue.
+			self comparableStringValue.
 	self deny:
 		self comparableFalseValue equals:
-			self comparableTrueValue.
+			self comparableStringValue.
 	self deny:
 		self comparableTrueValue equals:
-			self comparableFalseValue.
+			self comparableEmptyStringValue.
 	self assert:
 		self comparableFalseValue equals:
-			self comparableFalseValue
+			self comparableEmptyStringValue

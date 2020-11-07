@@ -1,4 +1,4 @@
-*XPath-Tests-GemstoneCompatibility31x
+*XPath-TestsGs31x
 testEqualToNumber
 	self assert: (self comparableNodeSetWithNumberValues = self comparableNumberValue).
 	self assert: (self comparableNodeSetWithSameNumberValue = self comparableNumberValue).

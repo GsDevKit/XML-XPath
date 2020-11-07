@@ -1,4 +1,4 @@
-tests
+*XPath-TestsCommon
 testEqualToBoolean
 	self assert:
 		self comparableNodeSetWithStringValues equals:

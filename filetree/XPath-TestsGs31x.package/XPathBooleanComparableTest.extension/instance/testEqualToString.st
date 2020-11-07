@@ -1,4 +1,4 @@
-*XPath-Tests-GemstoneCompatibility31x
+*XPath-TestsGs31x
 testEqualToString
 	self assert:
 		self comparableTrueValue equals:

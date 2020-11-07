@@ -1,4 +1,4 @@
-tests
+*XPath-TestsCommon
 testEqualToNumber
 	self assert:
 		self comparableNodeSetWithNumberValues equals:

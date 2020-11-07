@@ -1,4 +1,4 @@
-*XPath-Tests-GemstoneCompatibility31x
+*XPath-TestsGs31x
 testEqualToBoolean
 	self assert:(self comparableNodeSetWithStringValues = self comparableTrueValue).
 	self deny: (self comparableEmptyNodeSet = self comparableTrueValue).
