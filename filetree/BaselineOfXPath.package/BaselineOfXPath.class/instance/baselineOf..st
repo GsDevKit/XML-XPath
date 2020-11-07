@@ -56,5 +56,5 @@ baselineOf: spec
 				package: 'XPath-Tests'
 				with: [ spec includes: #('XPath-Tests-GemstoneCompatibility31x') ].
 			spec
-				package: 'XPath-Tests-GemstoneCompatibility31x'
+				package: 'XPath-TestsGs31x'
 				with: [ spec requires: #('XPath-Tests') ] ]
