@@ -1,4 +1,4 @@
-translating
+*XPath-PharoCompatibility
 compileTranslatedExpression: aTranslatedExpression
 	^ XPathCompiledExpression
 		block:

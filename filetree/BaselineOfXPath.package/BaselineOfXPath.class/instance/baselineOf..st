@@ -25,6 +25,14 @@ baselineOf: spec
 				with: [ spec requires: #('XMLWriter' 'XPath-Core') ].
 			spec group: 'Tools' with: #('XMLParser Tools' 'XPath-GTExtensions') ].
 	spec
+		for: #'pharo'
+		do: [ 
+			spec
+				package: 'XPath-Core'
+					with: [ spec includes: 'XPath-PharoCompatibility' ];
+				package: 'XPath-PharoCompatibility'
+					with: [ spec requires: 'XPath-Core' ] ].
+	spec
 		for: #'gemstone'
 		do: [ 
 			spec
