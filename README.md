@@ -8,11 +8,17 @@ An XPath library for [Pharo](http://www.pharo.org) leveraging the XML parsing ca
 
 ## Installation
 
+###Metacello
 ```Smalltalk
 Metacello new
 	baseline: 'XPath';
 	repository: 'github://pharo-contributions/XML-XPath/src';
 	load.
+```
+### tODE command line
+```
+project install --url=http://gsdevkit.github.io/GsDevKit_home/XPath.ston
+project load XPath
 ```
 
 ## Usage
