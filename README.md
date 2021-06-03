@@ -1,6 +1,6 @@
 # XML-XPath
 
-[![Build Status](https://travis-ci.org/GsDevKit/XML-XPath.svg?branch=master)](https://travis-ci.org/GsDevKit/XML-XPath)
+[![Build Status](https://github.com/GsDevKit/XML-XPath/actions/workflows/ci.yml/badge.svg?branch=gemstone)](https://github.com/GsDevKit/XML-XPath/actions/workflows/ci.yml)
 
 GemStone port.
 
